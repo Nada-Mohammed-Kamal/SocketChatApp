@@ -38,3 +38,6 @@ A small Chat app which consists of one chat room that different users can join u
   </tr>
 </table>
 
+
+</br> </br> </br> </br> </br>
+The reference used for this demo : https://www.appcoda.com/socket-io-chat-app/
